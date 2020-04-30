@@ -15,7 +15,6 @@ Klientas turi el. Parduotuvę https://demo.prestashop.com/#/en/front ir joje nor
 - Užsakius prekę po 13h - prekę pristatysime 2020-04-15 d.
 
 - CSS/JS papildomi pagal save - nieko fancy nereikia, bet kažkokį stylingą būtų neblogai matyti.
-- Modulis maksimaliai validus https://validator.prestashop.com/ validatoriuje.
 - Modulio parametrai saugomi ps_configuration lentoje.
 
 ### Tips:
